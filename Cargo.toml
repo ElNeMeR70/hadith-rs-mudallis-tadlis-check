@@ -1,0 +1,10 @@
+[package]
+name = "hadith-rs-mudallis-tadlis-check"
+version = "1.0.0"
+edition = "2021"
+description = "Mudallis An'anah & Explicit Sama' Transmission Formula Checker"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "hadith_rs_mudallis_tadlis_check"
+path = "main.rs"
